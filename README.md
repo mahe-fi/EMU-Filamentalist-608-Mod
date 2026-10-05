@@ -1,4 +1,4 @@
-# EMU Filamentalist – 608 bearing mod
+ # EMU Filamentalist – 608 bearing mod
 
 > [!IMPORTANT]
 > **This is an unofficial mod for [EMU – Expandable Multi-material Unit](https://github.com/DW-Tas/EMU)** by DW-Tas and igiannakas.
@@ -68,6 +68,9 @@ STL files follow the original EMU naming convention: **`[a]_` prefix = accent co
 The STLs are positioned in assembly coordinates, so place them on the build plate in your slicer.
 
 ## Print settings
+
+> [!IMPORTANT]
+> **Some parts require supports** The built in supports in tensioner mount and stepper main body did not survive modding. Until they're added back to STLs, use slicer supports.
 
 Use the same print settings as the original EMU. The section below is **copied verbatim from the original EMU documentation** ([Printing, Assembly and Wiring](https://github.com/DW-Tas/EMU/blob/main/docs/assembly_wiring/README.md#print-settings)). All credit to the EMU authors.
 
